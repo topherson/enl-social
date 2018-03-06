@@ -1,0 +1,14 @@
+uuid: 4b06f6ed-860a-49da-a567-8ca852d3674c
+name: enl-social
+mail: topherson@me.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
